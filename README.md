@@ -40,11 +40,11 @@ In the text of the deck's accompanying packaging, collectors of this artwork are
 ---
 ### About These Images
 
-![*Reversible Faces* (1931-32) by Rex Whistler](images/rex_whistler.jpg)<br /><center><small>*Reversible Faces* (1931-32) by Rex Whistler</small></center>
+![*Reversible Faces* (1931-32) by Rex Whistler](images/rex_whistler.jpg)<br /><sub><sup>*Reversible Faces* (1931-32) by Rex Whistler</sup></sub>
 
 Some of the best known ambigrammatic faces are the “[Upside-down Pictures](https://ukiyo-e.org/image/mfa/sc168251)” (*Dôke jôgemi no zu*, c. 1861) by Edo illustrator Utagawa Yoshitora (active 1836–1887), and a series of “[Reversible Faces](https://commons.wikimedia.org/wiki/File:Rex_Whistler_-_Reversible_Face_-_Mayor_%26_Judge_1930.jpg)” (c. 1931), published posthumously by the British artist, Reginald John “Rex” Whistler (1905–1944). Interested readers are referred to additional examples in George Tscherny’s 2004 book, “[Changing Faces](https://www.amazon.com/Changing-Faces-George-Tscherny/dp/B000W7M2ZW)”, and Al Seckel’s 2006 book “[SuperVisions: Topsy-Turvy Optical Illusions](https://www.amazon.com/SuperVisions-Topsy-Turvy-Illusions-Al-Seckel/dp/1402718322)”.
 
-![Left to right: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (c. 1861) by Utagawa Yoshitora](images/historic_examples.jpg)<br /><center><small>Left to right: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (c. 1861) by Utagawa Yoshitora</small></center>
+![L-R: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (c. 1861) by Utagawa Yoshitora](images/historic_examples.jpg)<br /><sub><sup>L-R: anonymous Swiss painting (18th C.); anonymous English painting (19th C.); *Upside-down Pictures* (1861) by Utagawa Yoshitora</sup></sub>
 
 In the eighteenth and nineteenth centuries, bivalent face illusions were often used to depict uncomplicated dualities, such as young-old, good-evil, or blessed-damned. The faces in the *Ambigrammatic Figures* deck reflect the moral ambiguities of a darker and more uncertain time, marked by ecological crisis, misinformation, identitarianism, patriarchal authoritarianism, and the social unrest of a polity divided against itself.
 
