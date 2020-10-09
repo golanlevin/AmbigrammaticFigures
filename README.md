@@ -51,11 +51,11 @@ In the eighteenth and nineteenth centuries, bivalent face illusions were often u
 ---
 ### Technical Development
 
-![Our initial attempt with a custom GAN](images/initial_gan.jpg)<br/ ><sub><sup>An initial attempt with a custom GAN</sup></sub>
+![Our initial attempt with a custom GAN](images/initial_gan.jpg)<br /><sub><sup>An initial attempt with a custom GAN</sup></sub>
 
 Our initial attempt to implement *Ambigrammatic Figures* entailed the development of a custom generative adversarial network (GAN). This GAN was based on an introductory MNIST GAN, and trained from scratch on approximately 200 hand-selected face images. The GAN was modified to generate faces that looked credible in both orientations. The discriminator evaluated the generator’s output both upside-down and right-side-up, and produced a score that was a function of both. Unfortunately, the results of this techniqiue were low-resolution, plagued by artifacts, and failed to converge well.
 
-![A grid of selections from *Ambigrammatic Figures*](images/faces_128x128.png)<br/ ><sub><sup>Examples of *Ambigrammatic Figures*</sup></sub>
+![A grid of selections from *Ambigrammatic Figures*](images/faces_128x128.png)<br /><sub><sup>Examples of *Ambigrammatic Figures*</sup></sub>
 
 Ultimately, our *Ambigrammatic Figures* were synthesized with the [StyleGAN2](https://github.com/NVlabs/stylegan2) generative adversarial network, using pre-trained weights from the [Flickr-Faces-HQ Dataset](https://github.com/NVlabs/ffhq-dataset) (FFHQ), and enhanced using the [waifu2x](https://github.com/nagadomi/waifu2x) super-resolution library.
 
