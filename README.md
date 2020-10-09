@@ -30,7 +30,7 @@ These faces are “ambigrams”: images that are legible both upside-down and ri
 
 ![Ambigrammatic Figures card deck](images/ambigrammatic_cards.png)
 
-In the deck's accompanying packaging, collectors of this artwork are encouraged to devise their own activities with these cards: 
+In the text of the deck's accompanying packaging, collectors of this artwork are encouraged to devise their own activities with these cards: 
 
 > * *Sort the cards from most to least _________.*
 > * *Give names to the depicted. Write the personal motto or epitaph for each half of their duality.*
@@ -40,11 +40,11 @@ In the deck's accompanying packaging, collectors of this artwork are encouraged 
 ---
 ### About These Images
 
-![*Reversible Faces* (1931-32) by Rex Whistler](images/rex_whistler.jpg)
+![*Reversible Faces* (1931-32) by Rex Whistler](images/rex_whistler.jpg)<br /><center><small>*Reversible Faces* (1931-32) by Rex Whistler</small></center>
 
 Some of the best known ambigrammatic faces are the “[Upside-down Pictures](https://ukiyo-e.org/image/mfa/sc168251)” (*Dôke jôgemi no zu*, c. 1861) by Edo illustrator Utagawa Yoshitora (active 1836–1887), and a series of “[Reversible Faces](https://commons.wikimedia.org/wiki/File:Rex_Whistler_-_Reversible_Face_-_Mayor_%26_Judge_1930.jpg)” (c. 1931), published posthumously by the British artist, Reginald John “Rex” Whistler (1905–1944). Interested readers are referred to additional examples in George Tscherny’s 2004 book, “[Changing Faces](https://www.amazon.com/Changing-Faces-George-Tscherny/dp/B000W7M2ZW)”, and Al Seckel’s 2006 book “[SuperVisions: Topsy-Turvy Optical Illusions](https://www.amazon.com/SuperVisions-Topsy-Turvy-Illusions-Al-Seckel/dp/1402718322)”.
 
-![Left to right: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (1861) by Utagawa Yoshitora](images/historic_examples.jpg)
+![Left to right: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (c. 1861) by Utagawa Yoshitora](images/historic_examples.jpg)<br /><center><small>Left to right: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (c. 1861) by Utagawa Yoshitora</small></center>
 
 In the eighteenth and nineteenth centuries, bivalent face illusions were often used to depict uncomplicated dualities, such as young-old, good-evil, or blessed-damned. The faces in the *Ambigrammatic Figures* deck reflect the moral ambiguities of a darker and more uncertain time, marked by ecological crisis, misinformation, identitarianism, patriarchal authoritarianism, and the social unrest of a polity divided against itself.
 
@@ -59,7 +59,7 @@ Our initial attempt to implement *Ambigrammatic Figures* entailed the developmen
 
 Ultimately, our *Ambigrammatic Figures* were synthesized with the [StyleGAN2](https://github.com/NVlabs/stylegan2) generative adversarial network, using pre-trained weights from the [Flickr-Faces-HQ Dataset](https://github.com/NVlabs/ffhq-dataset) (FFHQ), and enhanced using the [waifu2x](https://github.com/nagadomi/waifu2x) super-resolution library.
 
-Our work uses the StyleGAN2 "projection technique", in which the GAN tries to find a given face in its latent space, starting its search from a “generic” “neutral” face located at the origin. We feed the StyleGAN an upside-down face as a query — and the projector tries its best to find it, but can never provide a perfect match, because it has only been trained on exclusively right-side-up faces. In short, the GAN projector finds upside-down faces in the latent space (or "generatable manifold") of right-side up faces. Through the struggle to match an upside-down face using right-side-up ones, the GAN tends to converge on a face that can be looked at both ways.  
+Our work uses the StyleGAN2 "[projection technique](https://towardsdatascience.com/stylegan2-projection-a-reliable-method-for-image-forensics-700922579236)", in which the GAN tries to find a given face in its latent space, starting its search from a “generic” “neutral” face located at the origin. We feed the StyleGAN an upside-down face as a query — and the projector tries its best to find it, but can never provide a perfect match, because it has only been trained on exclusively right-side-up faces. In short, the GAN projector finds upside-down faces in the latent space (or "generatable manifold") of right-side up faces. Through the struggle to match an upside-down face using right-side-up ones, the GAN tends to converge on a face that can be looked at both ways.  
 
 Our machine's hallucinations were alchemically influenced by the faces of individuals in [NIST Special Database 18](https://www.nist.gov/srd/nist-special-database-18), to whom we acknowledge our debt. No identification with actual persons is intended or should be inferred, and any resemblance to actual persons, living or deceased, is purely coincidental.
 
