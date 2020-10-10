@@ -41,7 +41,7 @@ In the text of the deck's accompanying packaging, collectors of this artwork are
 
 ![*Reversible Faces* (1931-32) by Rex Whistler](images/rex_whistler.jpg)<br /><sub><sup>*Reversible Faces* (1931-32) by Rex Whistler</sup></sub>
 
-Some of the best known ambigrammatic faces are the “[Upside-down Pictures](https://ukiyo-e.org/image/mfa/sc168251)” (*Dôke jôgemi no zu*, c. 1861) by Edo illustrator Utagawa Yoshitora (active 1836–1887), and a series of “[Reversible Faces](https://commons.wikimedia.org/wiki/File:Rex_Whistler_-_Reversible_Face_-_Mayor_%26_Judge_1930.jpg)” (c. 1931), published posthumously by the British artist, Reginald John “Rex” Whistler (1905–1944). Interested readers are referred to additional examples in George Tscherny’s 2004 book, “[Changing Faces](https://www.amazon.com/Changing-Faces-George-Tscherny/dp/B000W7M2ZW)”, and Al Seckel’s 2006 book “[SuperVisions: Topsy-Turvy Optical Illusions](https://www.amazon.com/SuperVisions-Topsy-Turvy-Illusions-Al-Seckel/dp/1402718322)”.
+Some of the best known ambigrammatic faces are the “[Upside-down Pictures](https://ukiyo-e.org/image/mfa/sc168251)” (*Dôke jôgemi no zu*, 「道化上下見ノ図」 c. 1861) by Edo illustrator Utagawa Yoshitora (active 1836–1887), and a series of “[Reversible Faces](https://commons.wikimedia.org/wiki/File:Rex_Whistler_-_Reversible_Face_-_Mayor_%26_Judge_1930.jpg)” (c. 1931), published posthumously by the British artist, Reginald John “Rex” Whistler (1905–1944). Interested readers are referred to additional examples in George Tscherny’s 2004 book, “[Changing Faces](https://www.amazon.com/Changing-Faces-George-Tscherny/dp/B000W7M2ZW)”, and Al Seckel’s 2006 book “[SuperVisions: Topsy-Turvy Optical Illusions](https://www.amazon.com/SuperVisions-Topsy-Turvy-Illusions-Al-Seckel/dp/1402718322)”.
 
 ![L-R: anonymous Swiss painting (18th C., from Tscherny); anonymous English painting (19th C., from Tscherny); *Upside-down Pictures* (c. 1861) by Utagawa Yoshitora](images/historic_examples.jpg)<br /><sub><sup>L-R: anonymous Swiss painting (18th C.); anonymous English painting (19th C.); *Upside-down Pictures* (1861) by Utagawa Yoshitora</sup></sub>
 
@@ -50,7 +50,7 @@ In the eighteenth and nineteenth centuries, bivalent face illusions were often u
 ---
 ### Technical Development
 
-![Our initial attempt with a custom GAN](images/initial_gan.jpg)<br /><sub><sup>An initial attempt to develop *Ambigrammatic Figures*, with a custom GAN</sup></sub>
+<img src="images/initial_gan.jpg" width="50%" height="50%" alt="An initial attempt to develop the project, with a custom GAN"><br /><sub><sup>An initial attempt to develop *Ambigrammatic Figures*, with a custom GAN</sup></sub>
 
 Our initial attempt to implement *Ambigrammatic Figures* entailed the development of a custom generative adversarial network (GAN). This GAN was based on an introductory MNIST GAN, and trained from scratch on approximately 200 hand-selected face images. The GAN was algorithmically modified to generate faces that looked credible in both orientations. In particular, the GAN's discriminator evaluated the generator’s output both upside-down and right-side-up, and produced a score that was a function of both. Unfortunately, the results of this techniqiue were low-resolution, plagued by artifacts, and failed to converge well.
 
@@ -79,6 +79,8 @@ Thanks to: Kyle McDonald, Claire Hentschker, Omer Shapira, Mikael Christensen, r
 Alex, Vlad (Merzmensch). *StyleGAN2 Projection: A Reliable Method for Image Forensics?* towardsdatascience.com, 15 January 2020. [https://towardsdatascience.com/stylegan2-projection-a-reliable-method-for-image-forensics-700922579236](https://towardsdatascience.com/stylegan2-projection-a-reliable-method-for-image-forensics-700922579236)
 
 Christensen, Mikael. *Colab Notebook for NVIDIA's StyleGAN2.* [https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH#scrollTo=4_s8h-ilzHQc](https://colab.research.google.com/drive/1ShgW6wohEFQtqs_znMna3dzrcVoABKIH#scrollTo=4_s8h-ilzHQc)
+
+Kim, Scott. *Inversions*. 1996. [https://www.amazon.com/Inversions-Scott-Kim/dp/1559532807](https://www.amazon.com/Inversions-Scott-Kim/dp/1559532807)
 
 Seckel, Al. *SuperVisions: Topsy-Turvy Optical Illusions*. 2006. [https://www.amazon.com/SuperVisions-Topsy-Turvy-Illusions-Al-Seckel/dp/1402718322](https://www.amazon.com/SuperVisions-Topsy-Turvy-Illusions-Al-Seckel/dp/1402718322)
 
