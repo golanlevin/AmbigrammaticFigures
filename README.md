@@ -60,8 +60,6 @@ Ultimately, our *Ambigrammatic Figures* were synthesized with the [StyleGAN2](ht
 
 Our work uses the StyleGAN2 "[projection](https://towardsdatascience.com/stylegan2-projection-a-reliable-method-for-image-forensics-700922579236)" technique, in which the GAN attempts to find a given face in its latent space, starting its search from a “generic” “neutral” face located at the origin. We provide the StyleGAN an upside-down face as a query — and the projector tries its best to find it, but can never serve a perfect match, because it has only been trained on exclusively right-side-up faces. In short, the GAN projector finds upside-down faces in the latent space (or "generatable manifold") of right-side up faces. Through the struggle to match an upside-down face using right-side-up ones, the GAN tends to converge on a face that can be looked at both ways.  
 
-We acknowledge our debt to the individuals whose faces alchemically influenced our machine's hallucinations. No identification with actual persons is intended or should be inferred, and any resemblance to actual persons, living or deceased, is purely coincidental.
-
 ---
 ### Acknowledgments
 
@@ -71,7 +69,9 @@ This project was realized in part through support from Nvidia Corporation and th
 
 The *Ambigrammatic Figures* imagery, card deck, and other media developed for this project are presented under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
-Thanks to: Kyle McDonald, Claire Hentschker, Omer Shapira, Mikael Christensen, roadrunner01 (@ak92501), Tero Karras et al. (NVlabs), C. Nagadomi, NIST, Casey Reas, Imin Yeh, Andrea Boykowycz, and the staff of the Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University.
+We acknowledge our debt to the individuals whose faces alchemically influenced our machine's hallucinations. No identification with actual persons is intended or should be inferred, and any resemblance to actual persons, living or deceased, is purely coincidental.
+
+Additional thanks to: Kyle McDonald, Claire Hentschker, Omer Shapira, Mikael Christensen, roadrunner01 (@ak92501), Tero Karras et al. (NVlabs), C. Nagadomi, NIST, Casey Reas, Imin Yeh, Andrea Boykowycz, and the staff of the Frank-Ratchye STUDIO for Creative Inquiry at Carnegie Mellon University.
 
 ---
 ### References
