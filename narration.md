@@ -34,7 +34,7 @@ and a collection of playful “Upside-down Pictures”, created circa 1861, by t
 
 ![](images/tscherny_swiss18thc_16x9.png)
 
-But this illusion has older roots. In the eighteenth and nineteenth centuries, bivalent face illusions were often used to depict uncomplicated dualities, such as young-old, male-female, good-evil, or blessed-damned. 
+But this illusion has older roots. In the eighteenth and nineteenth centuries, bivalent face illusions were often used to depict uncomplicated dualities, such as young-old, male-female, or good-wicked. 
 
 <table>
 <tbody>
