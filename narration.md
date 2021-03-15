@@ -26,7 +26,7 @@ These faces are “ambigrams”: images that are legible both upside-down and ri
 
 ![](images/rex_whistler_16x9.jpg)
 
-Some of the best-loved reversible faces are a series of drawings by the British artist, “Rex” Whistler, created in 1931 and published after his death,
+Some of the best-loved ambigrams are a series of "reversible faces" by the British artist, “Rex” Whistler, created in 1931 and published after his death,
 
 ![](images/yoshitora_16x9.jpg)
 
@@ -34,7 +34,7 @@ and a collection of playful “Upside-down Pictures”, created circa 1861, by t
 
 ![](images/tscherny_swiss18thc_16x9.png)
 
-But the illusion has older roots. In the eighteenth and nineteenth centuries, bivalent face illusions were often used to depict uncomplicated dualities, such as young-old, male-female, good-evil, or blessed-damned. 
+But this illusion has older roots. In the eighteenth and nineteenth centuries, bivalent face illusions were often used to depict uncomplicated dualities, such as young-old, male-female, good-evil, or blessed-damned. 
 
 <table>
 <tbody>
