@@ -21,7 +21,7 @@ This video presents documentation of "Ambigrammatic Figures", a variable-format,
 </table>
 
 
-These faces are “ambigrams”: images that are legible both upside-down and right-side up. Created with a machine learning system, they may be displayed in any orientation. In this project, a collection of 55 such ambigrammatic faces have been generated in high resolution, and presented in a variety of different formats. 
+These faces are “ambigrams”: images that are legible both upside-down and right-side up. Created with a machine learning system, they may be displayed in any orientation. In this project, we generated a collection of 55 such ambigrammatic faces, and present them in a variety of different formats. 
 
 
 ![](images/rex_whistler_16x9.jpg)
