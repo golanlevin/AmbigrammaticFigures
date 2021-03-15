@@ -69,11 +69,11 @@ The Ambigrammatic Figures are also presented in a tangible, open-ended, interact
 
 ![](images/initial_gan_16x9.jpg)
 
-Our initial attempt to implement *Ambigrammatic Figures* entailed the development of a custom generative adversarial network, or GAN, algorithmically modified to generate faces that looked credible in both orientations. In particular, the GAN's discriminator evaluated the generator’s output both upside-down and right-side-up, and produced a score that was a function of both. Unfortunately, the results of this techniqiue were plagued by artifacts, and failed to converge well.
+Our initial attempt to implement the project entailed the development of a custom generative adversarial network, or GAN. In particular, our GAN's discriminator was modified so that it examined its generator’s output both upside-down and right-side-up, and produced a score that was a function of both. Unfortunately, the results of this technique failed to converge well.
 
 ![](images/development_16x9.jpg)
 
-Ultimately, our *Ambigrammatic Figures* were synthesized with a "projection" technique, in which a GAN attempts to find a given face in its latent space, starting its search from a “generic” “neutral” face located at the origin. We provide the StyleGAN network with an upside-down face as a query — and the projector tries its best to find it, but can never serve a perfect match, because it has only been trained on exclusively right-side-up faces. In short, the GAN projector finds upside-down faces in the latent space—or "generatable manifold"—of right-side up faces. Through the struggle to match an upside-down face using right-side-up ones, the GAN tends to converge on a face that can be looked at both ways.  
+Ultimately, our faces were synthesized with a "projection" technique, in which a GAN attempts to find a given face in its latent space, starting its search from a “generic” “neutral” face. We provide the StyleGAN network with an upside-down face as a query — and the projector tries its best to find it, but can never serve a perfect match, because it has only been trained on exclusively right-side-up faces. In short, the GAN projector finds upside-down faces in the latent space—or "generatable manifold"—of right-side up faces. Through the struggle to match an upside-down face using right-side-up ones, the GAN tends to converge on a face that can be looked at both ways.   
 
 ---
 ### Acknowledgments
