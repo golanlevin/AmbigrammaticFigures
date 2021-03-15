@@ -55,15 +55,15 @@ The faces in our *Ambigrammatic Figures* project reflect the moral ambiguities o
 
 ![](images/faces_512x512_16x9.jpg)
 
-The *Ambigrammatic Faces* project is a variable-format work. When the faces are presented as *still images*, we orient them sideways, to preserve their ambiguity. 
+The Ambigrammatic Figures project is a variable-format work. When the faces are offered as *still images*, we orient them sideways, to preserve their ambiguity.
 
 ![](images/puppet.gif)
 
-When presented *dynamically*, we present the faces as spinning loops, as shown earlier, or in bivalent videos, puppeteered by facial motion capture recordings and reanimated by the Deep Nostalgia image warping algorithm. 
+In time-based media, we present the faces as spinning loops — or, alternatively, in bivalent videos, puppeteered by facial motion capture recordings and reanimated by an image warping algorithm.
 
 ![Ambigrammatic Figures card deck](images/ambigrammatic_cards.png)
 
-The faces are also presented in a tangible, open-ended, interactive format as a editioned deck of printed poker-sized cards, currently in production. In the text of the deck's accompanying packaging, collectors of this artwork are encouraged to devise their own activities with these cards, such as sorting the cards according to subjective criteria, or giving names and epitaphs to the depicted.  
+The Ambigrammatic Figures are also presented in a tangible, open-ended, interactive format as a deck of printed poker-sized cards. Participants are encouraged to devise their own activities with these cards, such as sorting them according to subjective criteria, or giving names and epitaphs to the faces.
 
 ### Technical Implementation 
 
