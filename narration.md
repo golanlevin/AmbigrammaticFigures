@@ -49,7 +49,7 @@ But this illusion has older roots. In the eighteenth and nineteenth centuries, b
 </table>
 
 
-The faces in our *Ambigrammatic Figures* project reflect the moral ambiguities of a darker and more uncertain time — marked by ecological crisis, misinformation, identitarianism, patriarchal authoritarianism, insurrection, and the social unrest of a polity divided against itself.
+The faces in our *Ambigrammatic Figures* project reflect the moral ambiguities of a darker and more uncertain time — marked by ecological crisis, misinformation, identitarianism, authoritarianism, and the social unrest of a polity divided against itself.
 
 ### Presentation 
 
