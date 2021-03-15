@@ -5,7 +5,7 @@
 
 ![Ambigrammatic Figure #0073](images/ambigrammatic_figure_0073_1024x1024.png)
 
-This video presents documentation of "Ambigrammatic Faces", a variable-format, generative artwork by Golan Levin and Lingdong Huang. Developed during the COVID-19 pandemic using artificial intelligence techniques, the project operates as an expressive meditation on themes of identity, illness, and social unrest. 
+This video presents documentation of "Ambigrammatic Figures", a variable-format, generative artwork by Golan Levin and Lingdong Huang. Developed in May 2020 using artificial intelligence techniques, the project operates as an expressive meditation on themes of identity, illness, and social unrest. 
 
 ### Overview
 
