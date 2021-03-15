@@ -26,7 +26,7 @@ These faces are “ambigrams”: images that are legible both upside-down and ri
 
 ![](images/rex_whistler_16x9.jpg)
 
-Some of the best-loved ambigrams are a series of "reversible faces" by the British artist, “Rex” Whistler, created in 1931 and published after his death,
+Some of the best-known ambigrams are a series of "reversible faces" by the British artist, “Rex” Whistler, created in 1931 and published after his death,
 
 ![](images/yoshitora_16x9.jpg)
 
