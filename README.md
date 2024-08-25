@@ -1,12 +1,14 @@
 # Ambigrammatic Figures
 
-*55 Grotesque Ambigrams By Golan Levin with Lingdong Huang, 05/05/2020*
+*55 Grotesque Ambigrams By Golan Levin with Lingdong Huang, 05/05/2020*<br />
+*Note: A two-minute [video describing this project can be found here](https://vimeo.com/523994523).*
 
 
 ![Ambigrammatic Figure #0073](images/ambigrammatic_figure_0073_1024x1024.png)<br /><sub><sup>*Ambigrammatic Figure #0073*</sup></sub>
 
 ---
 ### Overview
+
 
 <table>
 <tbody>
